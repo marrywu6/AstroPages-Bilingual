@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://wpblog.dpdns.org", // replace this with your deployed domain
-  author: "tosaki",
+  author: "marrywu6",
   profile: "https://wpblog.dpdns.org",
   desc: "A bilingual blog based on Astro Paper",
-  title: "AstroPaper Bilingual",
+  title: "水月洞天",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
