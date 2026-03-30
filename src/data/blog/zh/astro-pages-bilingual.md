@@ -1,9 +1,11 @@
 ---
 title: AstroPages-Bilingual现代、高性能双语博客模版
 pubDatetime: 2026-03-30
+description: AstroPages-Bilingual现代、高性能双语博客模版
 draft: false
 featured: true
-tags: []
+tags:
+  - 博客
 ---
 一个基于 [Astro v5](https://astro.build)、[Keystatic CMS](https://keystatic.com) 和 [Cloudflare Pages](https://pages.cloudflare.com) 构建的现代、高性能双语博客模版。
 
