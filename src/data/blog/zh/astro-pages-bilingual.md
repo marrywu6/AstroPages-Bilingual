@@ -84,9 +84,7 @@ npm run dev
 - 左边菜单找到 **Install App**，安装到你的内容仓库。
 
 **有几个文件要修改：**\
-**① keystatic.config.ts第10行，修改仓库地址，注意用户名和仓库地址都要改**
-
-\
+**① keystatic.config.ts第10行，修改仓库地址，注意用户名和仓库地址都要改**\
 **② utils/config.ts 中修改为自己的域名和仓库地址**
 
 2. **在 Cloudflare 设置环境变量**：
