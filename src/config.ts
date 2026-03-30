@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://astropages-bilingual.pages.dev", // replace this with your deployed domain
+  website: "https://wpblog.dpdns.org", // replace this with your deployed domain
   author: "tosaki",
   profile: "https://t0saki.com",
   desc: "A bilingual blog based on Astro Paper",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/t0saki/AstroPages-Bilingual/edit/main/",
+    url: "https://github.com/marrywu6/AstroPages-Bilingual/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
